@@ -83,7 +83,7 @@ similar to this:
 
 > Note: the test document is randomly creating numbers to pass as arguments to
 > the functions in this lab, so the specific values you see in your errors will
-> be different from what's shown in this lesson, and will be different each time
+> be different from what's shown in this  lesson, and will be different each time
 > you run the tests!
 
 The tests have found our `add()` function, getting us past the first test, and
